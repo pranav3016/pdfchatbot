@@ -5,6 +5,10 @@ langchain
 PyPDF2
 chromadb
 faiss-cpu
+<<<<<<< HEAD
 langchain_google_genai
 numpy
 pandas
+=======
+langchain_google_genai
+>>>>>>> e5de5b3ae076cf0f4788e2d478c1532cfc5a9723
